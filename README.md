@@ -31,6 +31,8 @@ Multi-platform high performance deep learning inference engine
 
 * [TengineKit](https://github.com/OAID/TengineKit) - Tenginekit is an easy-to-integrate face detection and face landmarks SDK. At present, it can run on various mobile phones at very low latency.
 
+* [MediaPipe](https://github.com/google/mediapipe) - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
+
 ## Project
 * [HyperLandmark](https://github.com/zeusees/HyperLandmark) - Deep Learning Based Free Mobile Real-Time Face Landmark Detector.
 
